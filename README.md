@@ -12,6 +12,22 @@ This project is a simple Python-based tool that checks how strong a password is.
 *Detects special characters
 *Gives clear feedback and strength level
 
+How to Run (Kali Linux):
+
+Open Terminal
+
+Create a file:
+nano password_checker.py
+
+Paste the Python code into the file
+
+Save and exit:
+CTRL + O → Save
+ENTER → Confirm
+CTRL + X → Exit
+
+Run the script:
+python3 password_checker.py
 
 Usage:
 
