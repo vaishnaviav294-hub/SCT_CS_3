@@ -1,5 +1,6 @@
 # SCT_CS_3
-Overview
+Overview:
+
 This project is a simple Python-based tool that checks how strong a password is. It evaluates the password based on length, uppercase and lowercase letters, numbers, and special characters. The tool then rates the password as Weak, Medium, or Strong and gives suggestions for improvement.
 
  Features:
